@@ -1,0 +1,10 @@
+.progress-bar {
+    height: 10px;
+    background-color: orangered;
+    width: 0;
+    margin: 10px 0;
+}
+
+.fullwidth {
+    width: 100%;
+}
